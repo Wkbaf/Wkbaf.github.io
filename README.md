@@ -1,4 +1,4 @@
-## Here is website: [Link](https://wkbaf.github.io)
+## Here is website: [Link](https://wkbaf.github.io){:target="_blank"}
 
 ## Welcome to GitHub Pages
 
