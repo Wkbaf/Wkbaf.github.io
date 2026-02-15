@@ -1,0 +1,7 @@
+.profile_pic {
+  width: 100px;
+  height: 100px; /* Must be equal to width for a perfect circle */
+  object-fit: cover; /* Ensures the image covers the area without stretching */
+  border-radius: 50%; /* Makes the element circular */
+  vertical-align: middle; /* Useful for aligning with text */
+}
