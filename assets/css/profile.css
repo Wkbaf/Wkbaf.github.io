@@ -1,4 +1,4 @@
-.sidebar-wrapper profile_pic {
+.sidebar-wrapper .profile_pic {
   width: 100px;
   height: 100px; /* Must be equal to width for a perfect circle */
   object-fit: cover; /* Ensures the image covers the area without stretching */
